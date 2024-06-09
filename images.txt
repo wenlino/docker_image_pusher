@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+portainer/portainer
